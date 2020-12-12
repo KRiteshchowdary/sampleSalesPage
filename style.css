@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.intro-section{
+    background-color: rgb(71,41,135);
+    height: 100vh;
+    color: #ffffff;
+    padding: 0px;
+}
+
+.hello{
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10vh;
+    padding: 10vh;
+}
+
+.name{
+    color: rgb(222,149,53);
+    font-style: italic;
+}
+
+.reward-balance{
+    font-size: 15px;
+    padding: 20px 0 20px 0;
+    text-align: center;
+
+}
+
+.money{
+    font-weight: 900;
+    color: greenyellow;
+}
+
+.available-currency{
+    background-color: rgb(94,71,159);
+    padding: 15px;
+    width: 90%;
+    margin-right: auto;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+
+}
+
+.reward-scheme{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 10vh;
+
+}
+
+.close-btn{
+    background-color: rgb(203,42,45);
+    border-radius: 30px;
+    border-width: 0px;
+    color: #ffffff;
+    width: 20%;
+    margin: auto
+}
+
+.available-discounts{
+    background-color: rgb(48,15,108);
+    height: 100vh;
+    padding: 0px;
+}
+
+.available-discounts-heading{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    margin-top:8vh;
+    margin-bottom:10vh;
+    color: #ffffff;
+}
+
+.discount-coupons-section{
+    width: 50%;
+    margin: Auto;
+}
+
+.discount-coupons{
+    width: 100%;
+    padding-bottom: 5vh;
+}
+
+.discount-coupon-name{
+    font-size: 7px;
+    font-weight: 900;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.discount-coupon-content{
+    width: 80%;
+    background-image: linear-gradient(to right,rgb(96,161,235),rgb(106,232,212));
+    color: #ffffff;
+    padding: 15px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.discount-coupon-content-info{
+    font-size: 12px;
+}
+
+.discount-coupon-content-percent{
+    font-size: 20px;
+}
+
+.discount-coupon-content-addItem{
+    color: black;
+    font-weight: 900;
+}
